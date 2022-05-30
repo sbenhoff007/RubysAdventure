@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+_downloads/
+RubysAdventure/RubysAdventure/Temp/
+RubysAdventure/RubysAdventure/Library/Artifacts/
+RubysAdventure/RubysAdventure/Library/PackageCache/
+RubysAdventure/RubysAdventure/Library/ShaderCache/
+RubysAdventure/RubysAdventure/Library/StateCache/
